@@ -16,18 +16,18 @@
 
 ## 🗺️ Planned Roadmap
 
-### ✅ Core Features (MVP)
+### Core Features (MVP)
 - [ ] User input box
 - [ ] Generate a single random result
 - [ ] Generate multiple results in sequence
 - [ ] Basic cozy styling (pastel colors, nice fonts)
 
-### ✨ Optional Add-ons
+### Good-to-Haves
 - [ ] Light/dark mode toggle
 - [ ] Mobile-friendly layout
 - [ ] Save or copy result button
 
-This is a small personal project — features may grow slowly over time ~
+This is a small personal projec. Features may grow slowly over time ~
 
 ## 💌 Inspiration
 
