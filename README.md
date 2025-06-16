@@ -27,7 +27,7 @@
 - [ ] Mobile-friendly layout
 - [ ] Save or copy result button
 
-This is a small personal projec. Features may grow slowly over time ~
+This is a small personal project. Features may grow slowly over time ~
 
 ## 💌 Inspiration
 
