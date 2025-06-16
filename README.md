@@ -17,8 +17,8 @@
 ## 🗺️ Planned Roadmap
 
 ### Core Features (MVP)
-- [ ] User input box
-- [ ] Generate a single random result
+- [x] User input box
+- [x] Generate a single random result
 - [ ] Generate multiple results in sequence
 - [ ] Basic cozy styling (pastel colors, nice fonts)
 
