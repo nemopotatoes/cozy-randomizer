@@ -1,7 +1,6 @@
 import { useState } from 'react'
 import reactLogo from './assets/react.svg'
 import viteLogo from '/vite.svg'
-import './App.css'
 
 function App() {
   const [input, setInput] = useState('');
@@ -31,7 +30,7 @@ function App() {
         onChange = {(e) => setInput(e.target.value)}
       />
       <button onClick={handleGenerate}>Generate</button>
-      {result && <p className="result">result: {result}</p>}
+      {result && <p className="result">{result}</p>}
     </div>
   )
 }
